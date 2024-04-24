@@ -9,7 +9,7 @@
                         <p>همچنین از typescript برای جلوگیری از خطا ها استفاده شد</p>
                         <p>برای routing نیز از vue-router کمک گرفته شد</p>
                     </div>
-                    <a href="">لینک گیت هاب پروژه</a>
+                    <a href="https://github.com/alirezajavadzade/ManaNovin">لینک گیت هاب پروژه</a>
                 </div>
             </v-col>
         </v-row>
@@ -37,5 +37,11 @@
 
 .about-page p {
     margin: 1rem 0;
+}
+
+.about-page a {
+    text-decoration: none;
+    color: #000;
+    font-weight: 600;
 }
 </style>
